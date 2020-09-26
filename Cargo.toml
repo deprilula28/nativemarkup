@@ -1,0 +1,8 @@
+[package]
+name = "nativemarkup"
+version = "0.1.0"
+authors = ["deprilula28 <deprilula28@gmail.com>", "Unto Karjalainen <unto@agenic.org>"] 
+edition = "2018"
+
+[dependencies]
+html5ever = "0.25.1"
